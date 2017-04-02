@@ -4,7 +4,7 @@
 I wanted to practice Leetcode questions with pen and paper on my Kindle. 
 So, I wrote a script which copies all Leetcode algothmic questions and formats it in a single file (txt, pdf, mobi) .
 
-<img width="100" height="100" src= "http://imagepastry.appspot.com/serve/AMIfv95J4uRxrr2QKbFY7x2xWF6G7wdDoMsd_Nv23kq0tfDmVOIHODEtN5RoQyqEkWs-xOD_YiYcQiHEeTGKuC_vtLq6bBiq7pHm4aw-GSdkmfiNryRAWwTzn_17oDM7UtrVIosv8GFblueYidvYQIc1eCaEEEtwpL02xcVTjmTaOmsII3U7gJU"/>
+<img width="400" height="500" src= "http://imagepastry.appspot.com/serve/AMIfv95J4uRxrr2QKbFY7x2xWF6G7wdDoMsd_Nv23kq0tfDmVOIHODEtN5RoQyqEkWs-xOD_YiYcQiHEeTGKuC_vtLq6bBiq7pHm4aw-GSdkmfiNryRAWwTzn_17oDM7UtrVIosv8GFblueYidvYQIc1eCaEEEtwpL02xcVTjmTaOmsII3U7gJU"/>
 
 
 ### Usage
